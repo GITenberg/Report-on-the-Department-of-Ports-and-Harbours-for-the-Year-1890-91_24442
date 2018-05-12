@@ -1,0 +1,25 @@
+_repo: Report-on-the-Department-of-Ports-and-Harbours-for-the-Year-1890-91_24442
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Australia. Queensland. Department of Ports and Harbours
+    gutenberg_agent_id: '26496'
+    url: http://www.gutenberg.org/2009/agents/26496
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2008-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TC'
+- !lcsh 'Harbors -- Australia -- Queensland'
+title: Report on the Department of Ports and Harbours for the Year 1890-91
+url: http://www.gutenberg.org/ebooks/24442
